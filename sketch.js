@@ -34,11 +34,11 @@ function preload()
   dogAreaImg = loadImage("images/Dog_Area.jpg");
   bottleMilk = loadImage("images/Milk.png");
   click = loadSound("click.wav");
-  garden_img = loadImage("../virtual pet images/Garden.png");
-  bedroom_img = loadImage("../virtual pet images/Bed Room.png");
-  washroom_img = loadImage("../virtual pet images/Wash Room.png");
-  lazyDogImg = loadImage("../virtual pet images/Lazy.png");
-  deadImg = loadImage("../virtual pet images/deadDog.png");
+  garden_img = loadImage("virtual pet images/Garden.png");
+  bedroom_img = loadImage("virtual pet images/Bed Room.png");
+  washroom_img = loadImage("virtual pet images/Wash Room.png");
+  lazyDogImg = loadImage("virtual pet images/Lazy.png");
+  deadImg = loadImage("virtual pet images/deadDog.png");
 }
 
 function setup() {
